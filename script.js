@@ -88,16 +88,16 @@
       1:'Pengguna terus bawah korang',
       2:'Pengguna daripada jaringan L1',
       3:'Pengguna daripada jaringan L2',
-      4:'Pengguna L4-L8',
-      5:'Pengguna L4-L8',
-      6:'Pengguna L4-L8',
-      7:'Pengguna L4-L8',
-      8:'Pengguna L4-L8',
-      9:'Pengguna L9-L13',
-      10:'Pengguna L9-L13',
-      11:'Pengguna L9-L13',
-      12:'Pengguna L9-L13',
-      13:'Pengguna L9-L13'
+      4:'Rangkaian Pengguna',
+      5:'Rangkaian Pengguna',
+      6:'Rangkaian Pengguna',
+      7:'Rangkaian Pengguna,
+      8:'Rangkaian Pengguna',
+      9:'Rangkaian Pengguna',
+      10:'Rangkaian Pengguna',
+      11:'Rangkaian Pengguna',
+      12:'Rangkaian Pengguna',
+      13:'Rangkaian Pengguna'
     };
 
     const journey = calcRoot.querySelector('[data-unlock-journey]');
